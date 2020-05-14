@@ -77,3 +77,11 @@ header {
 .navbar-brand:hover {
     color: #457369;
 }
+
+.link-welcome {
+    color: black;
+}
+
+.link-welcome:hover {
+    color: #457369;
+}
